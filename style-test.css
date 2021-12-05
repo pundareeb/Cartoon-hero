@@ -1,0 +1,34 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: coral;
+  font-size: 48.83px;
+}
+.teal {
+  color: teal;
+  font-size: 48.83px;
+}
+h2 {
+  color: plum;
+  font-size: 39.06px;
+}
+h3 {
+  color: royalblue;
+  font-size: 31.25px;
+}
+.uppercase {
+  text-transform: uppercase;
+  color: black;
+}
+.big.uppercase {
+  text-transform: uppercase;
+  color: red;
+}
+span {
+  color: violet;
+}
+h1 span {
+  color: saddlebrown;
+}
