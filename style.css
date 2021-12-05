@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-size: 16px;
+  font-family: Helvetica, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+header {
+  background-color: #d14635;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+header h1 {
+  color: white;
+  font-size: 49.93px;
+}
+
+header img {
+  border-radius: 170px;
+  width: 300px;
+  border: 20px solid #ffffff;
+}
+
+h1,
+h2 {
+  font-family: "Press Start 2P", cursive;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+main img {
+  max-width: 800px;
+}
+
+h2 {
+  font-size: 30px;
+  font-color: #e70c19;
+  margin: 40px 0;
+}
+
+a {
+  color: #3b0ce7;
+}
+a:hover {
+  color: white;
+  background-color: #e70c19;
+}
+
+footer {
+  background-color: #d14635;
+  text-align: center;
+  color: #ffffff;
+  margin: 0 auto;
+  padding: 20px 20px;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  background-color: black;
+}
+
+p.caption {
+  font-style: italic;
+  color: gray;
+  margin-top: 0;
+  font-size: 12px;
+}
